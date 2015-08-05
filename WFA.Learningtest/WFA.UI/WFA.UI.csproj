@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreateVerificationText.cs" />
     <Compile Include="Entrytest.cs" />
     <Compile Include="FrmEntrytest.cs">
       <SubType>Form</SubType>

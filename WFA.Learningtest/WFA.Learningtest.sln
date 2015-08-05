@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{3C90C9D9-FB16-4810-8652-D92645A83962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp", "MvcApp\MvcApp.csproj", "{D075DA41-CF8F-431D-8C4A-D5CEE32C39C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp.Tests", "MvcApp.Tests\MvcApp.Tests.csproj", "{4286149F-6438-4FFE-9C63-5355123F4FD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3C90C9D9-FB16-4810-8652-D92645A83962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C90C9D9-FB16-4810-8652-D92645A83962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C90C9D9-FB16-4810-8652-D92645A83962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D075DA41-CF8F-431D-8C4A-D5CEE32C39C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D075DA41-CF8F-431D-8C4A-D5CEE32C39C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D075DA41-CF8F-431D-8C4A-D5CEE32C39C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D075DA41-CF8F-431D-8C4A-D5CEE32C39C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4286149F-6438-4FFE-9C63-5355123F4FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4286149F-6438-4FFE-9C63-5355123F4FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4286149F-6438-4FFE-9C63-5355123F4FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4286149F-6438-4FFE-9C63-5355123F4FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
